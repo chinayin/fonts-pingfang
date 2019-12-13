@@ -1,0 +1,20 @@
+{
+  "name": "chinayin/fonts-pingfang",
+  "description": "fonts-pingfang",
+  "authors": [
+    {
+      "name": "chinayin",
+      "email": "whereismoney@qq.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "require": {
+    "PHP": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fonts\\": "src/"
+    }
+  }
+}
+
