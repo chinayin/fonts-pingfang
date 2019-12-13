@@ -2,7 +2,7 @@
 
 namespace Fonts;
 
-class FontsPingfang
+class FontsPingFang
 {
 
     /**
